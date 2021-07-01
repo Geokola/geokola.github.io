@@ -12,3 +12,9 @@ margin: 0 auto;
 width: 50%;
 background: cyan;
 }
+
+div .olori{
+margin: 0;
+position: absolute;
+left: 40px;
+}
